@@ -1,0 +1,42 @@
+.titleheading {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 120%;
+    position: relative;
+}
+
+.subheading {
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    font-weight: normal;
+}
+
+.paragraph {
+    font-size: 14px;
+    font-weight: normal;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.hr {
+    margin: auto 0px;
+    position: relative;
+    width:55vh;
+    top:-6px;
+  }
+
+  .image_source {
+    font-size: 6px
+  }
+
+
+.image_caption {
+    font-size: 10px;
+    position: relative;
+    top: -35px;
+    left: -32px
+
+}
